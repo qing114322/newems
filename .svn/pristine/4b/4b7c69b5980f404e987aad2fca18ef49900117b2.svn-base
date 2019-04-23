@@ -1,0 +1,4 @@
+1 从svn下载前端页面，测试
+2 开发报岗功能  list,search方法返回json的数据格式：
+                包含{flowname:'xx',compname:'xx'...}
+3 结合vue-router官网，讲解一下路由
